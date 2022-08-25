@@ -1,7 +1,8 @@
 # HI THERE 👋
 
 - 🏫CENBS
-
+-🇧🇷 BRASIL
+- 15 Years/Anos
 <!--
 **NicoPertheonlyone/NicoPertheonlyone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
